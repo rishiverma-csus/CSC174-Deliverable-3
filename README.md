@@ -1,6 +1,6 @@
-*CSC174 Deliverable #3*
+# CSC174 Deliverable #3
 
-**Team Members: Team members: Ariel Rose Manalo, Rishi Verma, Vardan Vardanyan**
+## Team Members: Team members: Ariel Rose Manalo, Rishi Verma, Vardan Vardanyan
 
 File that connects to database: 
 https://github.com/rishiverma-csus/CSC174-Deliverable-3/blob/main/connect.php
