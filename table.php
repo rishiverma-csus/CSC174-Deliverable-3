@@ -3,7 +3,7 @@
 // Connect to database.
 require('connect.php');
 
-$sql = "SELECT email, fname, lname, points FROM CUSTOMERS";
+$sql = "SELECT * FROM CUSTOMERS";
 $result = $conn->query($sql);
 
 if ($result->num_rows > 0) {
